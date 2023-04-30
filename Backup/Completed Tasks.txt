@@ -1,0 +1,27 @@
+-- Customer Register
+-- Customer Login
+-- Admin Login(Customer Only)
+
+##Customer
+--Customer Profile
+--Customer Update profile - Automatic Mail Generation On APPLYING FOR A LOAN, REJECTION AND APPROVAL OF LOAN.
+--Change Password
+
+
+##admin
+@DASHBOARD@
+
+@Admin@
+-- Add Admin
+-- View Admin
+
+@SETTINGS@
+-- ADD LOAN TYPES
+-- VIEW LOAN TYPES
+-- ADD LOAN PROCEESING FEE
+-- VIEW LOAN PROCEESING FEE
+-- DELAY PAYMENT SETTINGS
+
+@ADMIN ACCOUNT@
+-- Admin Profile
+-- Change password
